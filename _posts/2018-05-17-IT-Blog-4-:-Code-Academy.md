@@ -1,5 +1,5 @@
 ---
-title: IT Blog 4 : Code Academy
+title: IT Blog 4
 layout: post
 author: freddie.till-hosier
 permalink: /it-blog-4-:-code-academy/
