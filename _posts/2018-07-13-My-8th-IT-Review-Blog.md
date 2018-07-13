@@ -58,5 +58,13 @@ published: true
     <td>For next time I am going to try and persevere more to make sure I understand more and feel that I have solved the problem myself so I can be confident with myself. Also, if I am stuck, I could also use the clue which gives me a hint to be able to answer the question, but have still done it myself.</td>
   </tr>
 </table>
+![screen shot 2018-07-13 at 07 03 59](https://user-images.githubusercontent.com/22681406/42675233-0be29ab4-866b-11e8-8605-b7883f7533af.png)
 
+
+
+![screen shot 2018-07-13 at 06 59 46](https://user-images.githubusercontent.com/22681406/42675248-18d18c26-866b-11e8-8abe-40332462b0f4.png)
+
+
+
+![screen shot 2018-07-13 at 06 59 35](https://user-images.githubusercontent.com/22681406/42675250-1b72c9d6-866b-11e8-83e4-dee4f4c36930.png)
 
