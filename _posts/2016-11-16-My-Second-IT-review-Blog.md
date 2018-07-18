@@ -56,5 +56,5 @@ published: true
     <td>For IT next year, I would like to make sure that I tried the hardest I can to answer the question, before I use a hint. This is to allow me to understand and the answer the questions use my own knowledge because otherwise, I will not have used my learning to answer the question and then I may not remember it afterwards when I do need it.</td>
   </tr>
 </table>
-
+![screen shot 2018-07-18 at 06 48 30](https://user-images.githubusercontent.com/22681406/42862304-d9c87f86-8a56-11e8-88cc-57f1a59383f1.png)
 
