@@ -33,7 +33,7 @@ body {
 }
 
 table, th, td {
-   border: 3px solid black;
+	border: 3px solid $black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -67,7 +67,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $black;
 }
 
 p {
