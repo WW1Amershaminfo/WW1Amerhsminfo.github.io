@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a seires of posts concerning places in Amersham that were significant during WW1.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We are a class of children not a history proffesor. If there is any inacurate information please contact us.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mikejdpacker1@gmail.com](mailto:mikejdpacker1@gmail.com)
